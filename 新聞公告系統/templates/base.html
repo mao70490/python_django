@@ -9,10 +9,10 @@
 <body>
     <div id="wrap">
         <div id="header">
-            {% block login %}{% endblock %}
             <div class="logo">
                 <img src="{% static "images/DWonline.png" %}" alt="dreamweaver.com.tw" width="180" height="40"/>
             </div>
+            &nbsp;{% block login %}{% endblock %}
         </div>
         <div class="headings">
             <h2>新聞系統</h2>

@@ -136,7 +136,7 @@ def newsedit(request, newsid=None,edittype=None): #修改資料
 		unit.enabled=enabled
 		unit.save()
 		return redirect('/adminmain/')
-	return render(request,"newsdit.html",locals())
+	return render(request,"newsedit.html",locals())
 
 def newsdelete(request,newsid=None,deletetype=None): #刪除資料
 	unit = models.NewsUnit.objects.get(id=newsid) #讀取指定資料
