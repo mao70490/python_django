@@ -58,5 +58,18 @@
 
 (1)登出管理者介面
 
-(2)新增新聞
+(2)新增新聞:點擊後出現下圖,輸入個欄位資訊按送出即可新增新聞(分類為下拉式選單,可選擇新聞種類)
 
+![005](https://user-images.githubusercontent.com/89763652/141274330-45656b52-c052-4a52-a4a3-bf7f197282fb.png)
+
+![005-2](https://user-images.githubusercontent.com/89763652/141277104-0faf8b8e-ede0-4fb3-b261-945cf136aff8.png)
+
+(3)編輯新聞:點選想要編輯的新聞後出現下圖,便可修改該則新聞
+
+![006](https://user-images.githubusercontent.com/89763652/141276254-bb55d1de-2c9c-424b-ad8f-fd5566e07872.png)
+
+(4)刪除新聞:點選想刪除的新聞則會出現下圖,再點選確認即可刪除該筆資料
+
+![007](https://user-images.githubusercontent.com/89763652/141277511-07ea6aa1-111b-4741-9e9a-780e7406e0ba.png)
+
+(5)每一頁新聞最大筆數為8筆,大於8筆則會出現下一頁的按鈕,也有前一頁的紐
