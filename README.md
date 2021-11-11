@@ -42,7 +42,12 @@
 
 ![001](https://user-images.githubusercontent.com/89763652/141139163-2eade38d-c6ca-4e1d-919a-022911ac4999.png)
 
-2.點擊此圖後輸入帳號密碼可進入管理者介面
+2.點擊標題(反藍處)即可進入觀看該新聞
+
+![008](https://user-images.githubusercontent.com/89763652/141279268-9d8b07db-94b2-4f20-a0d2-9f4f54de301b.png)
+
+
+3.點擊此圖後輸入帳號密碼可進入管理者介面
 
 (1)點擊圖案
 
@@ -52,7 +57,7 @@
 
 ![003](https://user-images.githubusercontent.com/89763652/141140498-aeba0707-9ad8-4541-86b3-cf864adc5781.png)
 
-3.點擊圈起來的地方個別的功用
+4.點擊圈起來的地方個別的功用
 
 ![004](https://user-images.githubusercontent.com/89763652/141141860-3d27405a-b180-49ff-ab76-5ee9c26c9533.png)
 
@@ -73,3 +78,4 @@
 ![007](https://user-images.githubusercontent.com/89763652/141277511-07ea6aa1-111b-4741-9e9a-780e7406e0ba.png)
 
 (5)每一頁新聞最大筆數為8筆,大於8筆則會出現下一頁的按鈕,也有前一頁的紐
+
