@@ -129,7 +129,7 @@
 
 5.點選查看詳細資料則可觀看訂單資訊(參考圖4-4)
 
-![pkm07](https://user-images.githubusercontent.com/89763652/142723453-222dcd5b-6f78-499a-b014-9459f99969cf.png)
+![pkm10](https://user-images.githubusercontent.com/89763652/142724016-80975860-c114-4c3a-ac83-1e77dc36a2ec.png)
 
 6.點選資訊中心中的查詢訂單,填完後按送出則可查詢訂單資料
 
