@@ -119,4 +119,19 @@
 
 (3)點選修改購物車內容則返回購物車頁面
 
-(4)
+(4)點選確認購買出現下圖
+
+![pkm06](https://user-images.githubusercontent.com/89763652/142723368-c3c20e54-52de-497e-9b74-0643f4410be1.png)
+
+(5)確認購買後會寄出電子郵件
+
+![pkm08](https://user-images.githubusercontent.com/89763652/142723591-059d72ff-912f-4bad-905b-de88a17af9b2.png)
+
+5.點選查看詳細資料則可觀看訂單資訊(參考圖4-4)
+
+![pkm07](https://user-images.githubusercontent.com/89763652/142723453-222dcd5b-6f78-499a-b014-9459f99969cf.png)
+
+6.點選資訊中心中的查詢訂單,填完後按送出則可查詢訂單資料
+
+![pkm09](https://user-images.githubusercontent.com/89763652/142723716-2720c27f-742b-4088-bc08-b046e6cce684.png)
+
